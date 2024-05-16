@@ -1,0 +1,47 @@
+#header_logo{
+    width: 0px; 
+    height: 100px;
+}
+
+#header_text_1{
+    font-family: Serif;     
+}
+
+#header_text_2{
+    font-family: Serif;
+    text-decoration: underline;
+}
+
+#body_title_1{
+    font-family: Serif;
+    text-decoration: underline;
+    font-style: italic;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#body_text_1{
+    font-family: Serif;
+    font-size: 30px;
+    line-height: 60px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#body_sign_1{
+    font-family: Serif;
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: bold;
+
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+#body_sign_2{
+    font-family: Serif;
+    font-size: 30px;
+
+    padding-bottom: 30px;
+}

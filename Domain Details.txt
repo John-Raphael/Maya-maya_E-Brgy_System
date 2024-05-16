@@ -1,0 +1,26 @@
+000webhost.com
+Account
+ Email:	mayamaya31111@gmail.com
+ Pass:	Mayamaya311
+ link:	https://www.000webhost.com/cpanel-login?from=panel
+
+Website Account
+ name: mayamayaonline
+ pass: Mayamaya@311
+ link: http://mayamaya311.000webhostapp.com/
+
+
+Database Connection
+ DB Name	: id20904155_db_mayamaya
+ DB Username	: id20904155_user_mayamaya
+ DB password	: >(9Q025V^Vt+=?J1
+
+-----------------------------------------------------------------------
+.htaccess Configuration
+
+# HTID:21868670: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+
+php_flag output_buffering on
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21868670:
+-----------------------------------------------------------------------
