@@ -450,7 +450,7 @@ $officials = mysqli_fetch_all($officialResponseResult, MYSQLI_ASSOC);
 
       <tr>
         <td class="text-right p-0 border-right border-dark" colspan="2">
-          <img id="rsd_photo" src="../../images/residents/<?= $Gender ?>.png" alt="resident photo" style="margin-left: -10px; margin-top:16%; width:15%; height:10%;  position:fixed;">
+          <img id="rsd_photo" src="../../images/residents/<?= $Gender ?>.png" alt="resident photo" style="margin-left: -10px; margin-top:16%; width:15%; height:10%;  position:fixed; visibility:hidden;">
        
           <p id="body_sign_1">
             <?= strtoupper($OfclName) ?>
